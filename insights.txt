@@ -1,0 +1,10 @@
+📊 Key Insights from the Sales Data Analysis
+
+Highest-Selling Product by Quantity
+WORLD WAR 2 GLIDERS ASSTD DESIGNS recorded the highest sales volume, with a total of 48,326 units sold, making it the most purchased product in the dataset.
+
+Top Revenue-Generating Product
+DOTCOM POSTAGE generated the highest revenue among all products, contributing 206,245.48 in total sales revenue.
+
+Peak Revenue Hours
+Sales activity is most concentrated between 10:00 AM and 3:00 PM, during which total revenue amounted to 6,109,596.78, accounting for approximately 74.6% of overall sales. This indicates that customer purchasing behavior is heavily skewed toward late morning and early afternoon hours
